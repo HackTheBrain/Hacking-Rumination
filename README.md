@@ -14,3 +14,9 @@ A proposal / prototype for a system that uses the data of the ratio between beta
 ## HOW?
 We used a muse and an arduino. And python, django, javascript and pyserial to code the arduino to make the scent dispenser go off.
 
+## Other information:
+*This repository was made by specific group members and uploaded to a temporary environment. This temporary environment has been manually transferred to a a more permanent Hack the Brain Github account. If any of the former team members wish to administer this repository and manage the master branch, then they can contact the current administrator of the repository to gain the proper acces privileges to manage the master branch*
+
+## Video on Hacking Rumination:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943245)
+

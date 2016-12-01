@@ -1,9 +1,9 @@
 # Hacking-Rumination
 
-## WHO?
-Paulien Routs – Designer 
-Delany Boutkan – Designer 
-Charalampos Papaloizou - Programmer
+## WHO?:
+- Paulien Routs – Designer 
+- Delany Boutkan – Designer 
+- Charalampos Papaloizou - Programmer
 
 ## WHY?
 Our concept is rooted in our research on the depressed brain, rumination means a thought spiral you get into when you drop concentration and your mind starts wandering. When you suffer from depression this becomes a negative thought spiral and we wanted to create a product that makes sure you get some positive input when you drop concentration and your mind wanders, a positive instead of negative rumination, supporting the wellbeing of the depressed brain on a daily basis.
